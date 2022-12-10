@@ -1,5 +1,5 @@
-**KIRILL LEBEDEV**
-**LEGAL COUNCEL**
+# Kirill Lebedev
+## Legal Councel
 
 1. **EDUCATION**
     * *Nizhny Novgorod State University, Legal School, Master degree*
