@@ -1,5 +1,5 @@
-#<KIRILL LEBEDEV>
-##<Legal counsel>
+# <KIRILL LEBEDEV>
+## <Legal counsel>
 
 1. **EDUCATION**
     * *Nizhny Novgorod State University, Legal School, Master degree*
